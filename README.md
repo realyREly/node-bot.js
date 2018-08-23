@@ -1,2 +1,1 @@
-#Slto7s System
-Bot using heroku 24/7
+# Slto7s System
