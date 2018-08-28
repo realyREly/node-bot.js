@@ -682,38 +682,6 @@ Click On ▶ To Go To Bot Info
 
 
 
-//By ReBeL //By ReBeL 
-//جميع الحقوق محفوظهه لريبل فقط . 
-client.on("ready", async  => {
-setInterval(function(){
-client.channels.find('id', '475012911937355786').setName("A");  
-client.channels.find('id', '475012911937355786').setName("Al");
-client.channels.find('id', '475012911937355786').setName("Als");
-client.channels.find('id', '475012911937355786').setName("Alsa");  
-client.channels.find('id', '475012911937355786').setName("Alsa7");
-client.channels.find('id', '475012911937355786').setName("Alsa7r");
-client.channels.find('id', '475012911937355786').setName("Alsa7r_");
-client.channels.find('id', '475012911937355786').setName("Alsa7r_r");
-client.channels.find('id', '475012911937355786').setName("Alsa7r_ro");
-client.channels.find('id', '475012911937355786').setName("Alsa7r_rox");
-client.channels.find('id', '475012911937355786').setName("Alsa7r_rox");
-client.channels.find('id', '475012911937355786').setName("Alsa7r_roxy");
-client.channels.find('id', '475012911937355786').setName("I");
-client.channels.find('id', '475012911937355786').setName("Is");
-client.channels.find('id', '475012911937355786').setName("Ist");
-client.channels.find('id', '475012911937355786').setName("Isti");
-client.channels.find('id', '475012911937355786').setName("Istif");
-client.channels.find('id', '475012911937355786').setName("Istifz");
-client.channels.find('id', '475012911937355786').setName("Istifza");
-client.channels.find('id', '475012911937355786').setName("Istifzaz");
-client.channels.find('id', '475012911937355786').setName("Istifzazi");
-client.channels.find('id', '475012911937355786').setName("💓");
-  }, 3000);
-});
-//By ReBeL 
-
-
-
 
 
 client.login(process.env.BOT_TOKEN);
